@@ -7,6 +7,8 @@
 
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Discord-Custom-RPC&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/Discord-Custom-RPC)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Dank-Memer-Auto-Typer&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/Dank-Memer-Auto-Typer)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Spotify-Ad-Killer&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/Spotify-Ad-Killer)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Minecraft-Auto-Mod-Downloader&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader)
 
 <br>
 
