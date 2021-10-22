@@ -3,7 +3,7 @@
 #### Currently learning:
 * JavaScript&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/js.png width=20>
 * SQL&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/sql.png width=20>
-* C#&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/c-sharp.png width=20>
+* C++&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/c-plus-plus.png width=20>
 
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Discord-Custom-RPC&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/Discord-Custom-RPC)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Dank-Memer-Auto-Typer&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/Dank-Memer-Auto-Typer)
