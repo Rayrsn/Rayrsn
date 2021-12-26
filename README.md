@@ -10,7 +10,7 @@
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Spotify-Ad-Killer&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/Spotify-Ad-Killer)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Minecraft-Auto-Mod-Downloader&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Curseforge-Modpack-Downloader&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/Curseforge-Modpack-Downloader)
-
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=mcmodloader&show_owner=true&bg_color=70,22c1c3,96be74,fdbb2d)](https://github.com/Rayrsn/mcmodloader)
 <br>
 
 ![Rayrsn's github stats](https://github-readme-stats.vercel.app/api?username=Rayrsn&theme=dark&show_icons=true&bg_color=70,22c1c3,96be74,fdbb2d&text_color=000000)
