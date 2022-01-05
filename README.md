@@ -1,4 +1,5 @@
-### Literally a dude that codes for a hobby
+## Literally a dude that codes for a hobby
+#### Every single project I make is and will be open source
 
 #### Currently learning:
 * JavaScript&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/js.png width=20>
