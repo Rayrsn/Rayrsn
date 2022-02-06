@@ -10,7 +10,7 @@
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Dank-Memer-Auto-Typer&show_owner=true&theme=synthwave)](https://github.com/Rayrsn/Dank-Memer-Auto-Typer)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Spotify-Ad-Killer&show_owner=true&theme=synthwave)](https://github.com/Rayrsn/Spotify-Ad-Killer)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Minecraft-Auto-Mod-Downloader&show_owner=true&theme=synthwave)](https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Curseforge-Modpack-Downloader&show_owner=true&theme=synthwave)](https://github.com/Rayrsn/Curseforge-Modpack-Downloader)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Discord-RPC-cli&show_owner=true&theme=synthwave)](https://github.com/Rayrsn/Discord-RPC-cli)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=mcmodloader&show_owner=true&theme=synthwave)](https://github.com/Rayrsn/mcmodloader)
 <br>
 
