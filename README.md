@@ -15,5 +15,5 @@
 <br>
 
 ![Rayrsn's github stats](https://github-readme-stats.vercel.app/api?username=Rayrsn&theme=synthwave)
-![Rayrsn's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayrsn&langs_count=10&theme=synthwave)
+![Rayrsn's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayrsn&langs_count=10&exclude_repo=dotfiles&theme=synthwave)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rayr&theme=synthwave)](https://wakatime.com/@Rayr)
