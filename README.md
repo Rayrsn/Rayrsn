@@ -1,4 +1,11 @@
 ## Literally a dude that codes for a hobby
+
+<p align="center">
+    <a href="https://dsc.gg/rayr">
+    <img alt="Discord" src="https://discord.c99.nl/widget/theme-4/616702462526488616.png" />
+  </a>
+</p>
+
 #### Every single project I make is and will be open source
 
 #### Currently learning:
