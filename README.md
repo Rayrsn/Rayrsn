@@ -1,5 +1,10 @@
 ## Literally a dude that codes for a hobby
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rayrsn}/count.svg" /></p> 
+<br></div>
+
 <p align="center">
     <a href="https://dsc.gg/rayr">
     <img alt="Discord" src="https://discord.c99.nl/widget/theme-4/616702462526488616.png" />
