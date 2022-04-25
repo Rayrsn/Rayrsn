@@ -65,9 +65,10 @@
     <img alt="Rayrsn's github stats" src="https://github-readme-stats.vercel.app/api?username=Rayrsn&theme=radical&layout=compact&count_private=true" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Rayrsn?tab=repositories">
-    <img alt="Rayrsn's github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayrsn&langs_count=10&exclude_repo=dotfiles&theme=radical&layout=compact" />
+    <img alt="Rayrsn's github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayrsn&langs_count=10&exclude_repo=dotfiles,BetterDiscord-Files&theme=radical&layout=compact" />
   </a>
      <a href="https://wakatime.com/@Rayr">
     <img alt="Rayrsn's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rayr&theme=radical" />
