@@ -16,11 +16,11 @@
 #### Languages/Technologies I know (Higher means more proficient):
 * Python&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/python.png width=20>
 * Rust&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/rust.png width=20>
+* Go&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/go.png width=20>
 * Bash&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/bash.png width=20>
 * JavaScript&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/js.png width=20>
 * Arduino&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/arduino.png width=20>
 * Sql&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/sql.png width=20>
-* Go&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/go.png width=20>
 * Java&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/java.png width=20>
 * C++&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/c-plus-plus.png width=20>
 * C&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/c.png width=20>
