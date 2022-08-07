@@ -36,17 +36,17 @@
     <a href="https://github.com/Rayrsn/Discord-Custom-RPC">
     <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Discord-Custom-RPC&show_owner=true&theme=radical" />
   </a>
-  <a href="https://github.com/Rayrsn/Dank-Memer-Auto-Typer">
-    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Dank-Memer-Auto-Typer&show_owner=true&theme=radical" />
+    <a href="https://github.com/Rayrsn/Spotify-Ad-Killer">
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Spotify-Ad-Killer&show_owner=true&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/Rayrsn/Spotify-Ad-Killer">
-    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Spotify-Ad-Killer&show_owner=true&theme=radical" />
-  </a>
   <a href="https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader">
     <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Minecraft-Auto-Mod-Downloader&show_owner=true&theme=radical" />
+  </a>
+    <a href="https://github.com/Rayrsn/mcmodloader">
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=mcmodloader&show_owner=true&theme=radical" />
   </a>
 </p>
 
@@ -54,8 +54,8 @@
     <a href="https://github.com/Rayrsn/Discord-RPC-cli">
     <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Discord-RPC-cli&show_owner=true&theme=radical" />
   </a>
-  <a href="https://github.com/Rayrsn/mcmodloader">
-    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=mcmodloader&show_owner=true&theme=radical" />
+<a href="https://github.com/Rayrsn/Weather-Cli">
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Weather-Cli&show_owner=true&theme=radical" />
   </a>
 </p>
   
