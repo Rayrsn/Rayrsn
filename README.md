@@ -1,7 +1,7 @@
 ## Literally a dude that codes for a hobby
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors Count since Feb 27, 2022</b></p>  
 <a href="#"><p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rayrsn}/count.svg" /></p> </a>
 <br></div>
 
