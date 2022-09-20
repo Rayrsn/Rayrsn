@@ -45,8 +45,8 @@
   <a href="https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader">
     <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Minecraft-Auto-Mod-Downloader&show_owner=true&theme=tokyonight" />
   </a>
-    <a href="https://github.com/Rayrsn/mcmodloader">
-    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=mcmodloader&show_owner=true&theme=tokyonight" />
+    <a href="https://github.com/Rayrsn/Curseforge-Modpack-Downloader">
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Curseforge-Modpack-Downloader&show_owner=true&theme=tokyonight" />
   </a>
 </p>
 
