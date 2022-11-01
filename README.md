@@ -1,4 +1,4 @@
-## Literally a dude that codes for a hobby
+## Literally a dude that codes
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count since Feb 27, 2022</b></p>  
