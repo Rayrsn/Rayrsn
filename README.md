@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://skyline.github.com/Rayrsn">
-    <img alt="contribution graph" src="https://activity-graph.herokuapp.com/graph?username=Rayrsn&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true"/>
+    <img alt="contribution graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rayrsn&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true"/>
   </a>
 </p>
 
