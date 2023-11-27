@@ -33,29 +33,29 @@
 * Go&nbsp; <img src=https://github.com/Rayrsn/Rayrsn/raw/main/img/go.png width=20>
 
 <p align="center">
-    <a href="https://github.com/Rayrsn/Discord-Custom-RPC">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Discord-Custom-RPC&show_owner=true&theme=tokyonight" />
-  </a>
-    <a href="https://github.com/Rayrsn/Spotify-Ad-Killer">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Spotify-Ad-Killer&show_owner=true&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rayrsn/Minecraft-Auto-Mod-Downloader">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Minecraft-Auto-Mod-Downloader&show_owner=true&theme=tokyonight" />
-  </a>
-    <a href="https://github.com/Rayrsn/Curseforge-Modpack-Downloader">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Curseforge-Modpack-Downloader&show_owner=true&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/Rayrsn/Discord-RPC-cli">
     <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Discord-RPC-cli&show_owner=true&theme=tokyonight" />
   </a>
-<a href="https://github.com/Rayrsn/Weather-Cli">
+    <a href="https://github.com/Rayrsn/Discord-Custom-RPC">
+    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Discord-Custom-RPC&show_owner=true&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rayrsn/currencyConverter">
+    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=currencyConverter&show_owner=true&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/Rayrsn/Weather-Cli">
     <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Weather-Cli&show_owner=true&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Rayrsn/JC141-Search">
+    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=JC141-Search&show_owner=true&theme=tokyonight" />
+  </a>
+<a href="https://github.com/ai-models/aimm">
+    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ai-models&repo=aimm&show_owner=true&theme=tokyonight" />
   </a>
 </p>
   
