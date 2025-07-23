@@ -2,7 +2,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count since Feb 27, 2022</b></p>  
-<a href="#"><p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rayrsn}/count.svg" /></p> </a>
+<a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=rayrsn&base=103145&BASE_VALUE_IS_MIGRATED_FROM_profile-counter.glitch.me" /></p> </a>
 <br></div>
 
 <p align="center">
@@ -34,28 +34,28 @@
 
 <p align="center">
     <a href="https://github.com/Rayrsn/Discord-RPC-cli">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Discord-RPC-cli&show_owner=true&theme=tokyonight" />
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Discord-RPC-cli&show_owner=true&theme=tokyonight" />
   </a>
     <a href="https://github.com/Rayrsn/Discord-Custom-RPC">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Discord-Custom-RPC&show_owner=true&theme=tokyonight" />
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Discord-Custom-RPC&show_owner=true&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Rayrsn/currencyConverter">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=currencyConverter&show_owner=true&theme=tokyonight" />
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=currencyConverter&show_owner=true&theme=tokyonight" />
   </a>
     <a href="https://github.com/Rayrsn/Weather-Cli">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=Weather-Cli&show_owner=true&theme=tokyonight" />
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=Weather-Cli&show_owner=true&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/Rayrsn/JC141-Search">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Rayrsn&repo=JC141-Search&show_owner=true&theme=tokyonight" />
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Rayrsn&repo=JC141-Search&show_owner=true&theme=tokyonight" />
   </a>
 <a href="https://github.com/ai-models/aimm">
-    <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ai-models&repo=aimm&show_owner=true&theme=tokyonight" />
+    <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=ai-models&repo=aimm&show_owner=true&theme=tokyonight" />
   </a>
 </p>
   
@@ -63,16 +63,16 @@
 
 <p align="center">
   <a href="https://github.com/Rayrsn?tab=repositories">
-    <img alt="Rayrsn's github stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rayrsn&theme=tokyonight&layout=compact&count_private=true" />
+    <img alt="Rayrsn's github stats" src="https://github-readme-stats.vercel.app/api?username=Rayrsn&theme=tokyonight&layout=compact&count_private=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Rayrsn?tab=repositories">
-    <img alt="Rayrsn's github Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rayrsn&langs_count=10&exclude_repo=dotfiles,BetterDiscord-Files,Weather-Gui,rimworld-mod-updater&theme=tokyonight&layout=compact" />
+    <img alt="Rayrsn's github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayrsn&langs_count=10&exclude_repo=dotfiles,BetterDiscord-Files,Weather-Gui,rimworld-mod-updater&theme=tokyonight&layout=compact" />
   </a>
      <a href="https://wakatime.com/@Rayr">
-    <img alt="Rayrsn's wakatime stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Rayr&theme=tokyonight" />
+    <img alt="Rayrsn's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rayr&theme=tokyonight" />
   </a>
 </p>
 
